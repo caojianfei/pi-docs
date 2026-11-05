@@ -1,0 +1,1 @@
+import{_ as i,o as t,c as a,a2 as e}from"./chunks/framework.LX5S0jbT.js";const E=JSON.parse('{"title":"JSON Event Stream","description":"","frontmatter":{},"headers":[],"relativePath":"json.md","filePath":"json.md"}'),n={name:"json.md"};function h(k,s,l,p,d,o){return t(),a("div",null,[...s[0]||(s[0]=[e("",65)])])}const g=i(n,[["render",h]]);export{E as __pageData,g as default};

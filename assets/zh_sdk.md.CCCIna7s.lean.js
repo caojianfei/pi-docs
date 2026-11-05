@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as i,a2 as t}from"./chunks/framework.LX5S0jbT.js";const k=JSON.parse('{"title":"SDK","description":"","frontmatter":{},"headers":[],"relativePath":"zh/sdk.md","filePath":"zh/sdk.md"}'),n={name:"zh/sdk.md"};function o(r,s,l,d,p,h){return a(),i("div",null,[...s[0]||(s[0]=[t("",48)])])}const g=e(n,[["render",o]]);export{k as __pageData,g as default};

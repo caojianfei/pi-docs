@@ -1,0 +1,1 @@
+import{_ as i,o as a,c as t,a2 as e}from"./chunks/framework.LX5S0jbT.js";const c=JSON.parse('{"title":"RPC Mode","description":"","frontmatter":{},"headers":[],"relativePath":"rpc.md","filePath":"rpc.md"}'),n={name:"rpc.md"};function h(p,s,l,o,r,d){return a(),t("div",null,[...s[0]||(s[0]=[e("",52)])])}const E=i(n,[["render",h]]);export{c as __pageData,E as default};

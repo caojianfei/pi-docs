@@ -1,0 +1,1 @@
+import{_ as t,o as s,c as a,a2 as i}from"./chunks/framework.LX5S0jbT.js";const c=JSON.parse('{"title":"Run Pi in tmux","description":"","frontmatter":{},"headers":[],"relativePath":"tmux.md","filePath":"tmux.md"}'),n={name:"tmux.md"};function o(r,e,d,h,u,l){return s(),a("div",null,[...e[0]||(e[0]=[i("",22)])])}const m=t(n,[["render",o]]);export{c as __pageData,m as default};

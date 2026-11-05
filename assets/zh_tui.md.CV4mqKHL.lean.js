@@ -1,0 +1,1 @@
+import{_ as i,o as a,c as n,a2 as t}from"./chunks/framework.LX5S0jbT.js";const o=JSON.parse('{"title":"终端 UI","description":"","frontmatter":{},"headers":[],"relativePath":"zh/tui.md","filePath":"zh/tui.md"}'),e={name:"zh/tui.md"};function h(k,s,l,p,d,E){return a(),n("div",null,[...s[0]||(s[0]=[t("",53)])])}const c=i(e,[["render",h]]);export{o as __pageData,c as default};

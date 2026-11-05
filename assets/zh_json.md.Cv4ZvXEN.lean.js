@@ -1,0 +1,1 @@
+import{_ as i,o as t,c as a,a2 as h}from"./chunks/framework.LX5S0jbT.js";const r=JSON.parse('{"title":"JSON 事件流","description":"","frontmatter":{},"headers":[],"relativePath":"zh/json.md","filePath":"zh/json.md"}'),k={name:"zh/json.md"};function n(e,s,l,p,d,E){return t(),a("div",null,[...s[0]||(s[0]=[h("",65)])])}const g=i(k,[["render",n]]);export{r as __pageData,g as default};

@@ -1,0 +1,1 @@
+import{_ as i,o as a,c as t,a2 as h}from"./chunks/framework.LX5S0jbT.js";const E=JSON.parse('{"title":"RPC 模式","description":"","frontmatter":{},"headers":[],"relativePath":"zh/rpc.md","filePath":"zh/rpc.md"}'),n={name:"zh/rpc.md"};function e(p,s,l,k,d,r){return a(),t("div",null,[...s[0]||(s[0]=[h("",52)])])}const g=i(n,[["render",e]]);export{E as __pageData,g as default};

@@ -1,0 +1,1 @@
+import{_ as t,o as s,c as a,a2 as i}from"./chunks/framework.LX5S0jbT.js";const k=JSON.parse('{"title":"Skills","description":"","frontmatter":{},"headers":[],"relativePath":"skills.md","filePath":"skills.md"}'),n={name:"skills.md"};function l(o,e,r,d,c,p){return s(),a("div",null,[...e[0]||(e[0]=[i("",33)])])}const m=t(n,[["render",l]]);export{k as __pageData,m as default};

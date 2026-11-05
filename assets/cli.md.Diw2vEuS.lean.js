@@ -1,0 +1,1 @@
+import{_ as t,o,c as s,a2 as i}from"./chunks/framework.LX5S0jbT.js";const k=JSON.parse('{"title":"Command Line","description":"","frontmatter":{},"headers":[],"relativePath":"cli.md","filePath":"cli.md"}'),a={name:"cli.md"};function d(n,e,l,c,r,p){return o(),s("div",null,[...e[0]||(e[0]=[i("",84)])])}const m=t(a,[["render",d]]);export{k as __pageData,m as default};

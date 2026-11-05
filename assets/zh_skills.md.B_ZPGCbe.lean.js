@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as s,a2 as i}from"./chunks/framework.LX5S0jbT.js";const k=JSON.parse('{"title":"技能","description":"","frontmatter":{},"headers":[],"relativePath":"zh/skills.md","filePath":"zh/skills.md"}'),n={name:"zh/skills.md"};function l(d,a,o,p,r,c){return t(),s("div",null,[...a[0]||(a[0]=[i("",33)])])}const m=e(n,[["render",l]]);export{k as __pageData,m as default};

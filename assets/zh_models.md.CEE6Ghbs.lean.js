@@ -1,0 +1,1 @@
+import{_ as i,o as a,c as e,a2 as t}from"./chunks/framework.LX5S0jbT.js";const r=JSON.parse('{"title":"选择模型","description":"","frontmatter":{},"headers":[],"relativePath":"zh/models.md","filePath":"zh/models.md"}'),n={name:"zh/models.md"};function l(h,s,p,o,d,k){return a(),e("div",null,[...s[0]||(s[0]=[t("",73)])])}const E=i(n,[["render",l]]);export{r as __pageData,E as default};

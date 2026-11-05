@@ -1,0 +1,1 @@
+import{_ as e,o as i,c as a,a2 as t}from"./chunks/framework.LX5S0jbT.js";const r=JSON.parse('{"title":"MCP 服务器","description":"","frontmatter":{},"headers":[],"relativePath":"zh/mcp.md","filePath":"zh/mcp.md"}'),o={name:"zh/mcp.md"};function d(p,s,n,c,l,h){return i(),a("div",null,[...s[0]||(s[0]=[t("",89)])])}const E=e(o,[["render",d]]);export{r as __pageData,E as default};
